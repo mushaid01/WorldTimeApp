@@ -1,0 +1,4 @@
+#Mon May 02 01:26:16 PDT 2022
+base.0=C\:\\Users\\mir mushaid ul islam\\OneDrive\\Desktop\\FLUTTERTEST\\test\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
